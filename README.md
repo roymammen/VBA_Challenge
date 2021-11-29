@@ -19,6 +19,8 @@
 
 
 2. Results: 
+https://github.com/roymammen/VBA_Challenge/blob/main/Deliverable/VBA_Challenge_2017.png
+https://github.com/roymammen/VBA_Challenge/blob/main/Deliverable/VBA_Challenge_2018.png
 	a. Using images and examples of your code, compare the stock performance between 2017 and 2018, 
 	  Overall "DQ" Stock volume has increased from 2017 to 2018 by a factor of 3. 
     But the stock return in 2018 is -88.9% though this has improved from -336.5%. Hence this is not a good recommendation.
